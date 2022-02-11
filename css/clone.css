@@ -1,0 +1,135 @@
+header{
+    height: 80px;
+width: 70%;
+background-color:#882C37;
+display: flex;
+justify-content:space-around;
+align-items: center;
+}
+#image_1{
+    height: 80px;
+    width: 80px; 
+}
+
+nav a:link{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+
+
+}
+.container{
+    width: 80%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#cart{
+    height:40px ;
+    width:40px ;
+
+}
+main{
+    width: 70%;
+    height: 600px;
+    display: flex;
+}
+.items{
+    height: 500px;
+    width:50%;
+    background-color: grey;
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+.form-payment input{
+    height: 30px;
+}
+
+/* .payment{
+    background-color: red;
+    width: 100%; */
+
+/* .prices{
+    height: 600px;
+    width: 50%;
+    background-color:#882C37; */
+
+
+.item{
+    background-color: white;
+    height:200px;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.item img{
+    height: 50px;
+    width: 80px;
+}
+.item p{
+    font-size: 15px;
+}
+ .prices{
+    
+     background-color: grey;
+    height: 500px;
+    width: 50%;
+    
+} 
+.form-payment{
+    height: 500px;
+    width: 100%;
+}
+.remove{
+    background-color:#882C37;
+    border-radius: 1em;
+    height: 25px;
+    border: solid #882C37;
+    font-size: 10px;
+    font-weight: bold;
+    color: white
+}
+.payment{
+    
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    
+}
+#jpg{
+    width: 50px;
+    height: 35px;
+}
+#mpesa{
+    width:70px ;
+    height: 40px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    float: right;
+    border: 1px;
+    background-color: #882C37;
+    border-radius: 2px;
+}
+#jpg{
+    float:right;
+    margin-right: 10px;
+}
+.zero{
+    width: inherit;
+    display: flex;
+    justify-content: space-around;
+    
+    position: relative;
+    bottom: -45px;
+}

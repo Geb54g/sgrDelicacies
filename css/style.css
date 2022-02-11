@@ -1,0 +1,188 @@
+.subheader{
+    height: 620px;
+    width: 75%;
+    color:black;
+    font-weight: 800;
+}
+.box1{
+    height:55%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    text-align: center;
+    margin-right: 1rem;
+}
+main{
+    height: 700px;
+}
+#chicken{
+    height: 85%;
+    width:70%;
+    padding:0.9rem ;
+
+}
+
+.pricing{
+    height: 70%;
+    width: 40%;
+    float: right;
+}
+.box2{
+    height:55% ;
+    width:19% ;
+    align-items: center;
+    text-align: center;
+    float: right;
+
+}
+#pilau{
+    height: 60%;
+    width: 70%;
+    padding:0.5rem;
+}
+.box3{
+    height:200px;
+    width: 35%;
+    align-items: center;
+}
+#friedchicken{
+    width: 35%;
+    height: 70%;
+}
+
+#mpesa{
+    width: 55;
+}
+#paypal{
+    width: 55;
+    padding-left: 1rem;
+}
+.tem{margin: 0.1rem;
+background-color: maroon;
+padding-top: 1rem;
+}
+
+.P{display: flex;
+justify-content: right;}
+
+.coupon{padding-top: 1rem;
+}
+
+.Q{display: flex;
+justify-content: flex-end;
+}
+
+.item{padding-top: 1rem;
+}
+.r{display: flex;
+justify-content: flex-end;
+}
+.number{padding-top: 1rem;
+}
+
+.pricing{text-align: right;
+    padding-right: 2rem;
+}
+
+.S{display: flex;
+justify-content: right;
+}
+
+.fee{padding-top: 1rem;
+}
+.t{display: flex;
+justify-content: right;
+}
+.amount{padding-top: 1rem;
+}
+
+.payment{text-align: end;
+}
+
+.cash{display: flex;
+justify-content: righ
+    }
+
+.food{
+    width: 75%
+}
+
+.cash{display: flex;
+justify-content: right;
+}
+.tikka{padding-right:1rem;
+padding-top:1rem;
+height: 50%;
+padding-left: 1rem;
+}
+.biryani{padding-top: 1rem;
+padding-right: 1rem;
+padding-left: 0.5rem;
+}
+.back{padding-left: 2rem;
+padding-right: 2rem;
+padding-top: 0.5rem;
+height: 50%;
+padding-bottom: 0.5rem;}
+
+.tem{
+    padding-left: 2.2rem;
+    padding-right: 2.2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: 43%;
+}
+.calories{
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-left: 1rem;
+    padding-bottom: 0.5rem;
+    height: 24%;
+    background-image:url(./calorie\ calculator.png) ;
+}
+.search{
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem ;
+    padding-bottom: 0.5rem;
+    height: 50%;
+}
+
+.money{
+padding-top: 0.4rem;
+padding-left: 1.8rem;
+font-weight: bold;
+}
+.moneyy{padding-top: 0.4rem;
+    padding-left: 1.8rem;
+    font-weight: bold;
+}
+
+.button{font-weight:600;
+background-color: rgb(151, 28, 53);
+border-radius: 1em;
+}
+
+.image{
+height: 20%;
+background-color: rgb(151, 28, 580
+);}
+
+.add{padding-left: 1.8rem;
+}
+.rem{padding-left: 1.8rem;
+}
+.adds{padding-left: 1.8rem;
+}
+
+.rems{padding-left: 1.8rem;}
+
+#mpesa{height: 65%;
+}
+
+.payment{color: rgb(151, 28, 53);
+}
+.two{width: 75%;
+}
+
